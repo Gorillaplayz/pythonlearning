@@ -1,0 +1,2 @@
+story='''im am a youtuber'''
+print(story)
